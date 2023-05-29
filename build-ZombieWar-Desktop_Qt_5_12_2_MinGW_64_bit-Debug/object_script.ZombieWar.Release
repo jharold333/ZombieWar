@@ -1,0 +1,10 @@
+release/bloque.o
+release/main.o
+release/personaje.o
+release/score.o
+release/tablero.o
+release/zombie.o
+release/qrc_Recursos.o
+release/moc_personaje.o
+release/moc_tablero.o
+release/moc_zombie.o

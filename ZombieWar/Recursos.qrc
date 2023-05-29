@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zximage/fondo.png</file>
+        <file>zximage/obstaculo1.png</file>
+        <file>zximage/obstaculo2.png</file>
+        <file>zximage/obstaculo3.png</file>
+        <file>zximage/obstaculo4.png</file>
+        <file>zximage/policia.png</file>
+        <file>zximage/zombie.png</file>
+    </qresource>
+</RCC>

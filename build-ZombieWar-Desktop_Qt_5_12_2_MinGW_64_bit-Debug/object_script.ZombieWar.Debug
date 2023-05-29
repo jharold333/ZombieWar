@@ -1,0 +1,10 @@
+debug/bloque.o
+debug/main.o
+debug/personaje.o
+debug/score.o
+debug/tablero.o
+debug/zombie.o
+debug/qrc_Recursos.o
+debug/moc_personaje.o
+debug/moc_tablero.o
+debug/moc_zombie.o
